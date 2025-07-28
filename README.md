@@ -15,7 +15,7 @@ A Streamlit web app that predicts whether a person is an introvert or extrovert 
 - Frequency of going outside
 - Social media post frequency
 - Friends circle size
-### Predicts personality type: Introvert 🪫 or Extrovert 🎉
+### Predicts personality type: Introvert or Extrovert 
 
 Built with:
 
@@ -23,3 +23,7 @@ Built with:
 - Scikit-learn
 - Streamlit
 - Joblib
+---
+## 🧪 Dataset Info
+- Source: [Kaggle Dataset](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
+- 2900 rows × 8 columns
