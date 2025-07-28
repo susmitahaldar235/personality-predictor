@@ -52,6 +52,8 @@ streamlit run app.py
 ```
 ---
 ## 📊 Model Performance
-- ✅ Accuracy: 93%
-- 📈 R² Score: 0.62
+- ✅ Accuracy: 93.34%
+- 📈 Precision: 0.92,
+     Recall: 0.94,
+     F1 Score: 0.93.
 - ✔️ Trained using SVMClassifier from Scikit-learn
