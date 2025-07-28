@@ -1,4 +1,4 @@
-# 🧠personality-predictor(INTROVERT OR EXTROVERT)
+# 🧠Personality-Predictor(INTROVERT OR EXTROVERT)
 ---
 A Streamlit web app that predicts whether a person is an introvert or extrovert based on behavioral traits using a Support vector machine (SVM) Classifier.
 
@@ -15,7 +15,7 @@ A Streamlit web app that predicts whether a person is an introvert or extrovert 
 - Frequency of going outside
 - Social media post frequency
 - Friends circle size
-### Predicts personality type: Introvert or Extrovert 
+### Predicts personality type: Introvert😇 or Extrovert🤩
 
 Built with:
 
@@ -33,3 +33,12 @@ Built with:
 ```
 git clone https://github.com/your-username/personality-predictor.git
 cd personality-predictor
+```
+### 2.Install Requirements
+```
+pip install -r requirements.txt
+```
+### 3.Run Streamlit App
+```
+streamlit run app.py
+```
