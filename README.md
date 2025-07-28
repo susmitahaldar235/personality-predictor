@@ -19,7 +19,7 @@ A Streamlit web app that predicts whether a person is an introvert or extrovert 
 
 Built with:
 
-- Python 🐍
+- Python 
 - Scikit-learn
 - Streamlit
 - Joblib
@@ -42,3 +42,16 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+---
+## 📁 File Structure
+```
+├── app.py                # Main Streamlit app
+├── personality_model.pkl # Trained model
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+```
+---
+## 📊 Model Performance
+- ✅ Accuracy: 93%
+- 📈 R² Score: 0.62
+- ✔️ Trained using SVMClassifier from Scikit-learn
