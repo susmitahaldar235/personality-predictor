@@ -27,3 +27,9 @@ Built with:
 ## 🧪 Dataset Info
 - Source: [Kaggle Dataset](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
 - 2900 rows × 8 columns
+---
+## ⚙️ How to Run Locally
+### 1.Clone the Repository
+```
+git clone https://github.com/your-username/personality-predictor.git
+cd personality-predictor
